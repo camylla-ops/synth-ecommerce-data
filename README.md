@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 
-Gerador de dados sintéticos para simular operações básicas de um e-commerce, com clientes e transações realistas.
+Gerador de dados sintéticos para simular operações básicas de um e-commerce, com clientes e transações.
 
 ## ⚙️ Funcionalidades 
 - **Geração de dados de clientes**:
