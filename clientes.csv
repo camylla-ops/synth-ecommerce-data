@@ -1,0 +1,101 @@
+id,nome,email,cidade,ultima_compra
+c754108f-f418-4f3f-8a14-be62295b4715,Agatha Peixoto,mariana01@example.com,da Costa do Norte,2025-01-14
+3b8faa18-37f8-488b-97fc-695a07a0ca6e,Amanda Novais,zoeleao@example.org,Pastor de da Mota,2025-02-16
+26286bfb-e767-4cea-b0e6-a969e21342b0,Ana Carolina Freitas,lorenacardoso@example.org,Fonseca do Norte,2025-02-21
+a01ac992-7f9d-4e64-81a6-423b9f64eeed,Ana Júlia Costela,isis24@example.com,Campos de Alves,2025-02-25
+693dffbc-6c6f-4611-9ab3-3edf6e595ed3,Ana Júlia Rocha,araujoisis@example.net,Caldeira de Goiás,2025-01-11
+e49d681d-51d8-4c64-95fa-1ab8458f1f19,Anna Liz Carvalho,ravigomes@example.net,Santos,2025-01-13
+784c2f29-9804-42a2-b07a-a066735435ea,Arthur Gabriel da Conceição,alexia71@example.net,da Luz,2025-02-14
+f668a617-94a1-475d-adb6-9edb42deffcc,Arthur Miguel Caldeira,uferreira@example.com,Pereira do Galho,2025-01-07
+9a8dca03-580d-4b71-98f5-64135be6128e,Augusto Siqueira,hnascimento@example.com,Novaes,2025-01-17
+75523327-0262-4f73-9292-2f83ef8c485b,Beatriz Barbosa,nataliada-luz@example.org,Azevedo de Goiás,2025-01-22
+504867ba-bf7b-439b-8f9a-ea4b8acd4e10,Benicio Pacheco,hmontenegro@example.org,Moraes,2025-01-05
+464458b4-6553-467d-a881-bfd3d47d577b,Benicio Pereira,xda-paz@example.org,Câmara do Oeste,2025-02-05
+98de8ebb-a3b5-4ece-a446-be72364c911a,Benicio Viana,ryan29@example.org,Teixeira,2025-02-01
+bf0d073d-821c-4336-9970-cf60ebff8d15,Bernardo da Mota,yfernandes@example.net,Abreu da Mata,2025-02-11
+d284476c-6b88-483d-997d-c9cd033d2bce,Bianca Lopes,maria-clara26@example.org,Pimenta da Prata,2025-02-14
+4dead645-0986-4beb-b23e-323d0b9bd934,Bruna Brito,stephanycarvalho@example.com,Freitas de Rios,2025-02-24
+cafda613-72bb-412d-bda6-7785b63b4dc3,Caleb da Rocha,jadesales@example.org,Ribeiro Verde,2025-01-22
+c478f6f1-b88e-4318-816d-83edad81f8bd,Cecilia Pires,piresbruno@example.com,Andrade de Pacheco,2025-01-21
+5ff595ea-5bc4-40f1-8b1a-269b0e5dd462,Clara da Cruz,rnunes@example.org,Cavalcanti,2025-01-05
+6b4be411-8a4a-4e2d-b22b-5b98b24cc64f,Daniela Leão,mendoncajoana@example.com,Sales,2025-01-22
+b27b3d90-1a16-442c-be2b-6091a092f52a,Dante Vieira,ferreirasophia@example.com,Azevedo do Galho,2025-02-06
+ddcf8766-a93b-42cd-9c24-220e2cabd7e7,Davi Lucca Albuquerque,renan95@example.org,da Luz,2025-01-03
+4b8c5bdc-e8dd-4e5a-9712-fb1621a4344f,Dr. Erick Costa,valentinafonseca@example.net,Cavalcante Paulista,2025-02-22
+29a3b2e9-5d65-4441-9588-42dea2bc372f,Dr. Gustavo Henrique Rios,diego92@example.net,Castro,2025-01-27
+85d51695-90b2-4633-956b-8c0ca8499b92,Dr. Gustavo Rios,rhavi46@example.org,Marques Alegre,2025-02-22
+039f3a25-4d61-48bd-adef-e1935c62b3a2,Dra. Carolina da Mota,aragaoana@example.net,Porto,2025-02-19
+a3d70628-ece6-4fa2-bd51-66e6451b4cf3,Dra. Hellena Rodrigues,daniel30@example.com,da Mata de Minas,2025-01-13
+6cedd15d-5800-4c02-87ea-7ff58db06746,Dra. Luísa Fogaça,tda-mata@example.com,Campos,2025-02-11
+436d76e2-b83c-4e0b-a037-e5edb8db0672,Emanuelly Montenegro,piresana-cecilia@example.net,Cassiano,2025-01-22
+698c206f-e1a4-4e10-ad53-4dd0cf8ebc5a,Felipe Sousa,juliana34@example.org,Garcia,2025-02-19
+36386821-f6e0-4cc0-ac52-c49f9b49bd26,Gabriela Silva,isabelly57@example.net,Campos de da Cruz,2025-01-13
+71316269-7118-4364-b709-7749527eecfa,Hadassa Moraes,yvieira@example.net,Ribeiro,2025-01-05
+19675f06-bd76-4e35-b5c9-b0479c10c572,Heitor da Luz,castrorhavi@example.org,Castro,2025-01-01
+53f8382b-8fb8-44e4-b173-8856e25d36eb,Hellena Ramos,portomaria-fernanda@example.net,Rezende das Pedras,2025-01-07
+989bc4da-9b37-422b-aa8a-616fc3b290d0,Heloisa Vasconcelos,cmachado@example.com,das Neves Verde,2025-02-05
+ab61a7b1-793b-4c32-a050-04943d114802,Henrique Martins,emilly29@example.net,Vasconcelos,2025-02-16
+8dcdcd03-969b-4662-8562-8059568cc69b,Henry Abreu,santosdante@example.org,Andrade,2025-02-18
+f8102383-03c7-4ba8-9605-e7708a63f881,Isaac Cavalcante,emendonca@example.org,Araújo da Serra,2025-01-22
+1165e210-9854-4881-918a-9d292f923996,Isabela Guerra,nunesthales@example.net,Pinto,2025-01-05
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Joaquim Câmara,gustavorocha@example.net,Pastor,2025-01-25
+7337c599-7984-4388-9c8a-ee30be6033f7,Josué Porto,raquel73@example.com,Barbosa de Silva,2025-01-17
+5563f616-00e8-4ece-8b49-452d46d483f3,João Castro,tnovaes@example.com,Camargo,2025-01-05
+6c006f61-23e2-4cb4-b2d8-567d894a05e4,João Lucas Martins,dommacedo@example.net,Aragão,2025-02-07
+bb2488a3-d363-47b6-af81-cf4f7701f7bb,Juliana Duarte,erickda-mota@example.com,Sá,2025-01-27
+0323d342-df6a-4f93-9a43-2f0a7daa39f0,Larissa Melo,vmacedo@example.org,da Cunha,2025-02-23
+ed3049cf-43e4-48fc-a3f2-ae24fc3d3348,Laura Lima,mcassiano@example.com,Araújo,2025-02-03
+d3016989-bfbb-417f-9854-ce4e4ebfa5c3,Laura Macedo,martinsana-julia@example.net,da Mata do Galho,2025-01-31
+276aa6ce-d507-45d9-a5d0-4d531e1242e3,Lavínia Moraes,kamilly77@example.org,Novaes de Casa Grande,2025-01-22
+b5b453ca-3d42-493c-8c9f-d3349bdf0377,Leonardo Novaes,novaesjoana@example.org,Camargo,2025-01-27
+9424aed5-1bac-4c15-8fa0-3f26f6f7f0cc,Leonardo Oliveira,tgoncalves@example.org,Pastor,2025-02-09
+a8addf36-ddf2-45eb-a8a3-f341c8819065,Liz Marques,araujomaria-luiza@example.com,Rodrigues do Campo,2025-01-28
+e63658c9-12d0-498d-b18d-4d05e8e22743,Lorenzo Pereira,davi-luccacardoso@example.com,Garcia do Galho,2025-01-17
+4ce1eb90-e669-4833-b841-d0a01fe771d6,Luana Rios,zduarte@example.net,Novaes Grande,2025-01-11
+dea45c19-d024-4d72-b748-967f961d33ba,Lucas Vasconcelos,andreda-mota@example.org,Nogueira,2025-01-15
+ce7607ad-f7a6-4b94-bb5a-611af1b64afe,Lucca Camargo,jbarbosa@example.org,Novais da Praia,2025-01-06
+c5f8bc16-f786-4b50-91c5-8ef0dd463c09,Luiz Fernando Ramos,irocha@example.com,Camargo,2025-02-19
+aabc25fa-3fe1-4e47-ae9b-ec3635c7936c,Luiz Gustavo Vasconcelos,vpinto@example.org,Castro,2025-02-25
+87f8424d-aae6-4fc1-b6f2-dbfecd29a36f,Luiza Sá,upimenta@example.net,Novaes dos Dourados,2025-02-21
+0a3450fc-9918-4e46-9497-d6587010f719,Luna Pereira,benjamim13@example.net,Teixeira,2025-02-08
+362f5e5c-53cd-4268-a10c-f37342999aa4,Lunna Fernandes,wda-mota@example.com,Barros do Amparo,2025-01-02
+33173470-38f1-4a81-b87f-2425dbccc477,Marcela das Neves,pietroalves@example.net,Guerra,2025-01-19
+aca2b148-da33-4aa1-941c-dfcdda0d4a5f,Maria Helena Dias,cnogueira@example.net,da Costa,2025-02-05
+6dadd6c7-95a7-4d79-bf3c-4c06434308bc,Maria Liz Fonseca,joao-guilhermemoraes@example.com,Sá,2025-01-03
+8ae8905b-54b4-4482-a858-6eba6a34c854,Maria Vitória Araújo,lauragomes@example.net,Teixeira,2025-02-02
+12a4def0-c4bb-47a9-9988-68dd9c7c7377,Maria Vitória Pires,hadassamonteiro@example.com,Casa Grande,2025-02-07
+28f49481-a0a0-4dc4-a720-9bdf1c11f735,Mariana Peixoto,gomesgiovanna@example.net,Moura de da Cunha,2025-02-25
+5a0cdd7c-f157-4470-8182-67c47a1b5806,Mathias Leão,mariahcamara@example.com,Mendonça do Sul,2025-01-23
+52c21221-409d-4602-9084-3242168b1625,Nathan Moraes,ribeirovitoria@example.com,Aragão do Oeste,2025-01-30
+b8f21423-03ed-41f8-b4f9-3d17e912b4bf,Nicolas Rezende,dommelo@example.com,Pinto das Flores,2025-02-07
+cdccc33a-a943-4aa0-96fc-734da003cd28,Otávio Camargo,kaiqueda-mata@example.org,Araújo,2025-01-10
+dc45d539-c03f-4538-a485-5aa1016b6287,Otávio Câmara,rafaelamartins@example.org,Campos,2025-01-27
+41357e8c-30a9-40ad-939b-462de645f129,Pedro Henrique Abreu,emanuellalopes@example.org,Pinto Alegre,2025-02-07
+895ccd99-43b3-4eb4-8390-2c5d6502d6a2,Rafael Freitas,giovanna51@example.net,Melo,2025-01-02
+32ffe294-4d57-4880-9865-d69a74f33103,Rafaela Caldeira,giovannaoliveira@example.com,Sampaio da Mata,2025-01-02
+474a493b-3ced-4f2d-839f-bc501223b513,Raquel Cunha,maria-juliada-cruz@example.com,Correia do Campo,2025-01-06
+c35b1c8c-0a4c-4f7f-9384-ec2b44feacae,Ravy Moreira,lda-mota@example.net,Porto do Amparo,2025-02-25
+10ba58e3-d276-4bdc-9d34-d08e7a4c75d4,Rebeca Barbosa,cassianokaique@example.net,Barros de Goiás,2025-01-07
+ffb8102d-9475-4bc9-9641-8cedd664d264,Rebeca Cassiano,enascimento@example.com,Novaes da Prata,2025-01-22
+dc98d2c1-e2ac-472f-9e57-4f7aa0ee89ae,Sr. Bernardo Aparecida,amandabarros@example.org,Garcia,2025-01-16
+f3b1025b-fff9-4585-8d55-7b618a175dfe,Sr. Bernardo Vasconcelos,sabento@example.org,Almeida,2025-02-05
+5553b2fe-6889-403e-9913-f9d3785299f4,Sr. Enrico Farias,fsales@example.com,Teixeira da Prata,2025-01-03
+9e87e04c-a208-4977-a9f2-533683f4a9a9,Sr. Isaac Rocha,rael32@example.org,da Cruz,2025-02-26
+3c71e0be-f357-4560-b1d7-966571818dcf,Sr. Léo Nogueira,davi64@example.org,Marques,2025-01-06
+b7c93acf-e059-40ee-9132-b63ef16287e4,Sr. Theo Gonçalves,qcasa-grande@example.org,Souza,2025-02-01
+15ed6269-1429-4c07-b26b-4776913e4de2,Sra. Ana Lívia Teixeira,jose-miguelribeiro@example.com,da Luz,2025-01-31
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Sra. Gabrielly Rodrigues,mirella74@example.org,Porto,2025-01-25
+28df6ec4-ce4a-4bbd-8241-330b01a9e71f,Sra. Manuela da Mota,pedroteixeira@example.com,Borges,2025-01-22
+8b10550c-d570-4f32-b02c-dd20286218b8,Sra. Vitória Albuquerque,gustavo-henrique24@example.org,Souza,2025-02-01
+892e6161-be2d-440a-9e9b-23bc50c7c006,Srta. Evelyn Cunha,uda-mota@example.net,Brito do Oeste,2025-01-17
+ad64b56c-610f-4a3f-b0bb-ac67aa38d0a1,Srta. Liz Guerra,da-rosaallana@example.org,Viana Verde,2025-02-04
+304b8590-de9e-4757-9260-001eeecf67d2,Srta. Maria Isis da Conceição,uaparecida@example.net,Santos de Garcia,2025-01-23
+3a3c8a71-ff57-4e2b-8991-ab9bebc2026f,Srta. Maya Brito,macedolucas-gabriel@example.net,Alves do Norte,2025-01-19
+67814c1f-cc53-4e36-addc-3e13ab3b4d37,Srta. Nina Cardoso,goncalvesbenjamim@example.org,Carvalho dos Dourados,2025-01-11
+1d181ee9-86ad-4a8c-abc4-123ebde13c1b,Srta. Olívia Machado,olivia91@example.com,Pimenta,2025-01-03
+ae270da7-02f0-4b90-b143-262fdc5c0eed,Srta. Zoe Sá,carolina14@example.com,Marques,2025-01-01
+a6eab79e-d21c-42f8-8ada-4f80a9e782d4,Thales Andrade,milenapastor@example.com,Macedo,2025-01-06
+561e16d1-6105-416b-ab0e-664e9c3eb2d5,Thales Duarte,mariahcunha@example.com,Fernandes Paulista,2025-02-20
+aee1e86b-9ea5-46aa-a1ee-6c5bdeef580f,Theo Pacheco,ravimartins@example.net,Marques Paulista,2025-02-08
+8e485223-46b9-4991-a14e-b70db380c73a,Valentim Correia,da-costajoana@example.com,Sales,2025-01-28
+e6b5a92c-771a-4655-8dfc-6ee0e61ede90,Yago Castro,macedocatarina@example.net,Porto das Pedras,2025-02-09
