@@ -17,4 +17,4 @@ Gerador de dados sintéticos para simular operações básicas de um e-commerce,
   - Total de vendas por produto
   - Cliente mais frequente
 
-
+> Dados gerados com [Faker](https://faker.readthedocs.io/)  
